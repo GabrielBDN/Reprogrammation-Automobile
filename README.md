@@ -87,6 +87,7 @@ Voici quelques captures d'écran de l'application :
 ![Exemple de l'application](./ScreenShots/Screen2.png)
 ![Exemple de l'application](./ScreenShots/Screen3.png)
 ![Exemple de l'application](./ScreenShots/Screen4.png)
+![Exemple de l'application](./ScreenShots/Screen5.png)
 
 ---
 
